@@ -14,5 +14,5 @@ This project is a web application that allows users to upload an image, resize i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nirkil/image-uploader-resizer.git
+   git clone https://github.com/AharonirR/image-uploader-resizer.git
    cd image-uploader-resizer
